@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Ricardo Godinez
 
-<!--
-**r-godinez/r-godinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-godinez&show_icons=true&theme=tokyonight)
+
+### 🔤 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-godinez&layout=compact&theme=tokyonight)
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
